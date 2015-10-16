@@ -1,0 +1,9 @@
+C:\Users\Митя\Documents\Visual Studio 2013\Projects\CHGK\CHGK\bin\Debug\CHGK.exe.config
+C:\Users\Митя\Documents\Visual Studio 2013\Projects\CHGK\CHGK\bin\Debug\CHGK.exe
+C:\Users\Митя\Documents\Visual Studio 2013\Projects\CHGK\CHGK\bin\Debug\CHGK.pdb
+C:\Users\Митя\Documents\Visual Studio 2013\Projects\CHGK\CHGK\obj\Debug\CHGK.csprojResolveAssemblyReference.cache
+C:\Users\Митя\Documents\Visual Studio 2013\Projects\CHGK\CHGK\obj\Debug\CHGK.Form1.resources
+C:\Users\Митя\Documents\Visual Studio 2013\Projects\CHGK\CHGK\obj\Debug\CHGK.Properties.Resources.resources
+C:\Users\Митя\Documents\Visual Studio 2013\Projects\CHGK\CHGK\obj\Debug\CHGK.csproj.GenerateResource.Cache
+C:\Users\Митя\Documents\Visual Studio 2013\Projects\CHGK\CHGK\obj\Debug\CHGK.exe
+C:\Users\Митя\Documents\Visual Studio 2013\Projects\CHGK\CHGK\obj\Debug\CHGK.pdb
