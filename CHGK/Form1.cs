@@ -16,11 +16,11 @@ namespace CHGK
         Timer minute = new Timer();
         Timer blitz = new Timer();
         MediaPlayer mpl = new MediaPlayer();
-        Uri intro = new Uri(@"C:\Users\Митя\Documents\Visual Studio 2013\Projects\CHGK\Intro.mp3");
-        Uri first = new Uri(@"C:\Users\Митя\Documents\Visual Studio 2013\Projects\CHGK\50sec.wav");
-        Uri second = new Uri(@"C:\Users\Митя\Documents\Visual Studio 2013\Projects\CHGK\60sec.wav");
-        Uri gong = new Uri(@"C:\Users\Митя\Documents\Visual Studio 2013\Projects\CHGK\gong.mp3");
-        Uri tea = new Uri(@"C:\Users\Митя\Documents\Visual Studio 2013\Projects\CHGK\Tea Ceremony.mp3");
+        Uri intro = new Uri(@"..\Intro.mp3", UriKind.Relative);
+        Uri first = new Uri(@"..\50sec.wav");
+        Uri second = new Uri(@"..\60sec.wav");
+        Uri gong = new Uri(@"..\gong.mp3");
+        Uri tea = new Uri(@"..\Tea Ceremony.mp3");
         bool istick = true;
         static int a = 0, b = 0;
 
